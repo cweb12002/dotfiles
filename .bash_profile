@@ -1,4 +1,4 @@
-HOST_NAME=minima
+HOST_NAME=cweb12002
 
 source ~/.nvm/nvm.sh
 nvm use stable
